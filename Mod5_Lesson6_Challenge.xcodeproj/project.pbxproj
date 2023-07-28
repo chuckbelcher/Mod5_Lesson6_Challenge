@@ -21,6 +21,7 @@
 		32F201442A747C4C009C4D06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32F201472A747C4C009C4D06 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		32F2014F2A747C94009C4D06 /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		32F201522A7484F7009C4D06 /* sample.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 			children = (
 				32F201402A747C4B009C4D06 /* Mod5_Lesson6_ChallengeApp.swift */,
 				32F201422A747C4B009C4D06 /* ContentView.swift */,
+				32F201522A7484F7009C4D06 /* sample.mp4 */,
 				32F201442A747C4C009C4D06 /* Assets.xcassets */,
 				32F201462A747C4C009C4D06 /* Preview Content */,
 			);
