@@ -12,6 +12,7 @@
 		32F201452A747C4C009C4D06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F201442A747C4C009C4D06 /* Assets.xcassets */; };
 		32F201482A747C4C009C4D06 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32F201472A747C4C009C4D06 /* Preview Assets.xcassets */; };
 		32F201502A747C94009C4D06 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32F2014F2A747C94009C4D06 /* AVKit.framework */; };
+		32F201532A757C64009C4D06 /* sample.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 32F201522A7484F7009C4D06 /* sample.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -140,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32F201482A747C4C009C4D06 /* Preview Assets.xcassets in Resources */,
+				32F201532A757C64009C4D06 /* sample.mp4 in Resources */,
 				32F201452A747C4C009C4D06 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
